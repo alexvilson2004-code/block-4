@@ -1,0 +1,17 @@
+*.dcu
+*.obj
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.map
+*.local
+*.identcache
+*.stat
+*.res
+Win32/
+Win64/
+Debug/
+Release/
+
+deploy/api.ini
