@@ -1,0 +1,6 @@
+[Database]
+Server=localhost
+Database=LoanApplicationsDb
+TrustedConnection=true
+User=
+Password=
